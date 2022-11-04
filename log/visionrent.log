@@ -1,0 +1,6 @@
+2022-11-03 18:55:27,828 INFO  [restartedMain] com.visionrent.VisionrentApplication:Starting VisionrentApplication using Java 17.0.4 on DESKTOP-UM6KCP6 with PID 7884 (C:\Users\user\Downloads\visionrent\target\classes started by user in C:\Users\user\Downloads\visionrent)
+2022-11-03 18:55:27,836 INFO  [restartedMain] com.visionrent.VisionrentApplication:No active profile set, falling back to 1 default profile: "default"
+2022-11-03 18:55:28,274 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-03 18:55:28,275 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-03 18:55:35,423 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-03 18:55:35,665 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 209 ms. Found 1 JPA repository interfaces.
